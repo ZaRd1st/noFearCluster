@@ -28,7 +28,7 @@
                     "buttontext": "Settings / Cluster Rules",
                     "title1": "Settings",
                     "title2": "Server Rules",
-                    "text1": "[Server Rates]\nTaming: x10 | Gathering: x3 | Breeding: x10 | XP: x3\n\n[Player Stats Multiplier]\n/nOxygen: x1/point | Weight: x1.75/Points",
+                    "text1": "[Server Rates]\nTaming: x10 | Gathering: x3 | Breeding: x10 | XP: x3\n\n[Player Stats Multiplier]\nOxygen: x1/point | Weight: x1.75/Points",
                     "text2": "This text goes into the right box",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
