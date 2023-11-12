@@ -2,15 +2,15 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 15,
+            "HideIcon": true,
+            "HideIconAfter": 5,
             "IconURL": "https://i.imgur.com/OZ6xOjY.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
-            "UpdateInterval": 12
+            "UpdateInterval": 5
         },
         "tabs": [
             {
