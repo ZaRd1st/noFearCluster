@@ -65,19 +65,19 @@
         "links": [
             {
                 "link1": {
-                    "text": "Shop(Inactive For Now)",
-                    "url": ""
-                }
-            },
-            {
-                "link2": {
                     "text": "noFear Discord",
                     "url": "https://discord.gg/JarwSJKKvZ"
                 }
             },
             {
+                "link2": {
+                    "text": "Donate (Via Paypal)",
+                    "url": "https://paypal.me/ZaRd?country.x=CA&locale.x=en_US"
+                }
+            },
+            {
                 "link3": {
-                    "text": "Donation(InactiveShop)",
+                    "text": "In-Game Shop Donation(Inactive)",
                     "url": "https://nofear.tebex.io/"
                 }
             }
