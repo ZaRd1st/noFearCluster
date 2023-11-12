@@ -18,17 +18,17 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Main Menu</>",
                     "title1": "noFear PvP NoWipe Cluster",
-                    "text1": "Welcome to noFear PvP NoWipe Cluster\n\nhttps://nofear.tebex.io/ Button @ Bottom left of this page\nhttp://discord.gg/JarwSJKKvZ Button @ Bottom left of this page\n\nPvP maps (NoWipe) : TheIsland and all future map additions coming in later.\n\nCross Server cluster chat is enabled. Full global chat history in Discord (Once API is developped for plugins.\n\nYou can scroll these panels.\nButtons for each different sections in the corners\n\nImportant Notes:\nYou can use the obelisk or drop beacons to transfer between maps with your survivor (levels & engrams), items and dinos (Once more maps are added to the cluster).",
+                    "text1": "Welcome to noFear PvP NoWipe Cluster\n\nhttps://nofear.tebex.io/ Button @ Bottom left of this page\nhttp://discord.gg/JarwSJKKvZ Button @ Bottom left of this page\n\nPvP maps (NoWipe) : TheIsland and all future map additions coming in later.\n\nCross Server cluster chat is enabled. Full global chat history in Discord (Once API is developped for plugins.\n\nYou can scroll these panels.\nButtons for each different sections in the corners\n\nImportant Notes:\nYou can use the obelisk or drop beacons to transfer between maps with your survivor (levels & engrams), items and dinos (Once more maps are added to the cluster).\n\nKeep in mind that this server is hosted and there is a cost for it. All support/donations goes directly to the server management and hardware upgrades of enegy bills so those are greatly welcome.\n\n Server admin : ZaRd",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "2 Box layout",
-                    "title1": "Left title",
-                    "title2": "Right title",
-                    "text1": "This text goes into the left box",
+                    "buttontext": "Settings / Cluster Rules",
+                    "title1": "Settings",
+                    "title2": "Server Rules",
+                    "text1": "[Server Rates]/nTaming: x10 | Gathering: x3 | Breeding: x10 | XP: x3/n/n[Player Stats Multiplier]/nOxygen: x1/point | Weight: x1.75/Points",
                     "text2": "This text goes into the right box",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
