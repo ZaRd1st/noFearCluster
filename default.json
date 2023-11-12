@@ -28,7 +28,7 @@
                     "buttontext": "Settings / Cluster Rules",
                     "title1": "Settings",
                     "title2": "Server Rules",
-                    "text1": "[Server Rates]\nTaming: x25 | Gathering: x20 | Breeding: x24",
+                    "text1": "[Server Rates]\nTaming: x10 | Gathering: x3 | Breeding: x10\n\n[Player Stats Multiplier]\nOxygen: x1.0/point | Weight: x1.75/Points\n\n[Dino Stats Multiplier]\nHealth: x1.0 | Weight: x7.5 | Damage: x1.0\n\nnoFear Shop [Inactive For Now]:\nYou receive 5 points every minutes played on any map of the cluster. Given every 5 minutes to your steam account [Points balance is cluster wide] See Shop tab for more info.\n\n",
                     "text2": "This text goes into the right box",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
