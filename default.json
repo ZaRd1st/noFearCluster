@@ -7,9 +7,9 @@
             "IconURL": "https://i.imgur.com/OZ6xOjY.png",
             "DisableIconText": false,
             "IconPosition": 0,
-            "IconTextColor": 0,
+            "IconTextColor": 6,
             "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": false,
+            "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 5
         },
         "tabs": [
