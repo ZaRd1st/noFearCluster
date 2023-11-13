@@ -65,19 +65,19 @@
         "links": [
             {
                 "link1": {
-                    "text": "<TextStyle.Red>noFear Discord</>",
+                    "text": "<RichColor Color=\"1,0,1,1\">noFear Discord</>",
                     "url": "https://discord.gg/JarwSJKKvZ"
                 }
             },
             {
                 "link2": {
-                    "text": "<TextStyle.Green>Donate (Via Paypal)</>",
+                    "text": "<RichColor Color=\"1,1,0,0.65\">Donate (Via Paypal)</>",
                     "url": "https://paypal.me/ZaRd?country.x=CA&locale.x=en_US"
                 }
             },
             {
                 "link3": {
-                    "text": "<TextStyle.Yellow>In-Game Shop Donation(Inactive)</>",
+                    "text": "<RichColor Color=\"1,1,0,1\">In-Game Shop Donation(Inactive)</>",
                     "url": "https://nofear.tebex.io/"
                 }
             }
