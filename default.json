@@ -25,7 +25,7 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "Settings / Cluster Rules",
+                    "buttontext": "<RichColor Color=\"0,1,0,1\">Settings / Cluster Rules</>",
                     "title1": "Settings",
                     "title2": "Server Rules",
                     "text1": "[Server Rates]\nXP: x3 | Taming: x10 | Gathering: x3 | Breeding: x10\n\n[Player Stats Multiplier]\nOxygen: x1.0/point | Weight: x1.75/Points\n\n[Dino Stats Multiplier]\nHealth: x1.0 | Weight: x7.5 | Damage: x1.0\n\nLeveling up to 80 is really quick. This will allow you to deal with those level 150 wild dinos. After 80 it will take quite a bit of effort to reach the level 225, expect a very long journey to grind for it.\n\nnoFear Shop [Inactive For Now]:\nYou receive 5 points every minutes played on any map of the cluster. Given every 5 minutes to your steam account [Points balance is cluster wide] See Shop tab for more info.\n\n\nDonators can obtain x2 shop points, meaning 10 points every 5 minutes played on any map of the cluster. See our webpage for more info.\n\n-MaxPlayerLevel: 300 [225 Without Ascentions]\n-MaxWildDinoLevel: 150\n-MaxWildTekDinoLevl: 180\n-MaxWildEggSpawns: 180\n-Dino can be leveled up to 250 time once it's tamed\n-All engrams unlockable by level 140 [/unlockengrams][Inactive for now]\n\n-Defeat the Ark bosses to unlock the tek engrams, or see Shop tab on the top right to buy them by using your shop points.\n\nARK Settings:\nAutoSavePeriodMinutes=60.0 [WorldSave every 60 minutes]\n\nMaxNumberOfPlayerInTribe=8\n\nSupplyCratelootQualityMultiplier=x2\nFishingLootQualityMultiplier=x2\n\nCropGrowthSpeedMultiplier=x5\nAllowUnlimitedRespecs=True [Infinite MindWipe]\nDisableWeatherFog=True\n\nLimiteTurretsRange=7000\nLimitTurretsNum=150\nDinoTurretDamageMiltiplier=x1\n\nPlayerDamageMultiplier=1.2\nDinoResistanceMultiplier=1.2\n\nIncreasePvPRespawnInterval=True\nIncreasePvPRespawnIntervalCheckPerios=120\nIncreasePvPRespawnIntervalMultiplier=2\nIncresePvPRespawnIntervalBaseAmount=30\n\nTribute Transfer [Dinos/Items]: 7 Days [250 Ark Data Slot]\nTribute transfer timer: [Unlimited]\n\n",
@@ -36,7 +36,7 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "Mods / Plugins / Maps",
+                    "buttontext": "<RichColor Color=\"1,1,0,1\">Mods / Plugins / Maps</>",
                     "title1": "Mods + Settings",
                     "title2": "Plugins",
                     "title3": "Maps",
@@ -49,7 +49,7 @@
             {
                 "tab4": {
                     "layout": 4,
-                    "buttontext": "Shop[Inactive for now]",
+                    "buttontext": "<RichColor Color=\"0.5,0.3,0.65,1\">Shop[Inactive for now]</>",
                     "title1": "Starter Kits",
                     "title2": "Shop Item List",
                     "title3": "Shop Dino List",
@@ -71,7 +71,7 @@
             },
             {
                 "link2": {
-                    "text": "<RichColor Color=\"1,1,0,0.65\">Donate (Via Paypal)</>",
+                    "text": "<RichColor Color=\"0,1,0,1\">Donate (Via Paypal)</>",
                     "url": "https://paypal.me/ZaRd?country.x=CA&locale.x=en_US"
                 }
             },
