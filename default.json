@@ -23,7 +23,7 @@
                 }
             },
             {
-                "tab2": {
+                "tab2": {d
                     "layout": 2,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Settings / Cluster Rules</>",
                     "title1": "Settings",
@@ -49,12 +49,12 @@
             {
                 "tab4": {
                     "layout": 4,
-                    "buttontext": "<RichColor Color=\"0.5,0.3,0.65,1\">Shop[Inactive for now]</>",
+                    "buttontext": "<RichColor Color=\"0.5,0.3,0.65,1\">Shop</>",
                     "title1": "Starter Kits",
                     "title2": "Shop Item List",
                     "title3": "Shop Dino List",
                     "title4": "Shop Blueprint List",
-                    "text1": "Coming Soon, Waiting on Server API",
+                    "text1": "Every players that join the server is getting starter kits (3) of them each to be more exact.\n\n- Level 225 Pteranodon with a saddle quality of (1)\n\n- Metal tools (Hatcher,Pick,Pike,Sickle) with a quality of (1)\n\n- Taming kit (Crossbow,TranqArrow,Narcotics) quality (1)\n\n- Starter base (Stone Foundations,Walls,Ceillings,Door,Bed,Forges)\n\n- Flak armors (Helm,Chest,Legs,Gloves,Boots) quality (1)",
                     "text2": "Coming Soon, Waiting on Server API",
                     "text3": "Coming Soon, Waiting on Server API",
                     "text4": "Coming Soon, Waiting on Server API",
