@@ -41,7 +41,7 @@
                     "title2": "Plugins",
                     "title3": "Maps",
                     "text1": "Currently Installed Mods\n\n- TG Stacking Mod(1000 -50% KG)\n- WBUI2 (Server Welcome UI)\n- Solo Farm Mod (Allow you to solo farm with argy/anky and more)\n- Super Spyglass / Super Binoculars (Dino Stats Checker)\n- Cryopods (Allow you to store dinos)\n- D+Nanny (DinoImprint/Incubator)\n\nMore will be eventually added but I will make it so its not game breaking.\n\nMods specific settings tweaks\n\n[Cryopods]\nCryoSicknessTimer=60 (Was 300)",
-                    "text2": "Currently waiting on the ServerAPI in order to use plugins. A lot of features will be added back including the in game shop and other cool feature like ORP/Item Transfer and more !",
+                    "text2": "Server API (v1.0) is now out!!\n\nCurrently installed plug-in :\n- Permission(Core) v1.0\n- Shop v1.0\n- ShopUI v1.0\n- Item+ v1.0\n- RconScheduler v1.0\n- LethalORP v1.0",
                     "text3": "noFear-NoWipe-PvP-5x-TheIsland\nsteam://connect/70.80.90.206:29015\n\nnoFear-NoWipe-PvP-5x-ScorchedEarth\n(TBA)\n\nnoFear-NoWipe-PvP-5x-Ragnarok\n(TBA)\n\nnoFear-NoWipe-PvP-5x-Aberation\n(TBA)\n\nnoFear-NoWipe-PvP-5x-Extinction\n(TBA)\n\nnoFear-NoWipe-PvP-5x-Genesis1\n(TBA)\n\nnoFear-NoWipe-PvP-5x-Genesis2\n(TBA)",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
