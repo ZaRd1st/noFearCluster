@@ -23,7 +23,7 @@
                 }
             },
             {
-                "tab2": {d
+                "tab2": {
                     "layout": 2,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Settings / Cluster Rules</>",
                     "title1": "Settings",
