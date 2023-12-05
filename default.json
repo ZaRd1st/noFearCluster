@@ -77,6 +77,12 @@
             },
             {
                 "link3": {
+                    "text": "<RichColor Color=\"0,1,0,1\">Vote</>",
+                    "url": "https://ark-servers.net/server/354153/vote/"
+                }
+            },
+            {
+                "link4": {
                     "text": "<RichColor Color=\"1,1,0,1\">In-Game Shop Donation(Inactive)</>",
                     "url": "https://nofear.tebex.io/"
                 }
