@@ -60,7 +60,16 @@
                     "text4": "Within the ArkShopUI, here is the list of BluePrints you can buy\n\n- All armors type\n- All weapons types\n- All saddles type\n\n- Up to quality (5) for normal ranks, quality (10) reserved to the InsaneVIP/GodVIP Tiers\n\n- These special tiers are available in our online shop. DM ZaRd for any questions related to this. You can also see in discord futhur more in the Permanent Donator Ranks.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
-            }
+            },
+            {
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">LethalORP</>",
+                    "title1": "Lethal Protection, How to setup",
+                    "text1": "In this tab, you will be able to setup your Lethal Protection properly. Please follow these simples steps.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }			
         ],
         "links": [
             {
