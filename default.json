@@ -64,9 +64,9 @@
             {
                 "tab5": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\">LethalORP</>",
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Lethal Protection</>",
                     "title1": "Lethal Protection, How to setup",
-                    "text1": "In this tab, you will be able to setup your Lethal Protection properly. Please follow these simples steps.",
+                    "text1": "In this tab, you will be able to setup your Lethal Protection properly. Please follow these simples steps.\n\nHere is some simple things you need to know before putting a Lethal Protection down.\n\n-Lethal Structure can be placed anywhere in the map that include Caves/Obelisk/Water.n-Only 1 of that structure available per tribe and per map.\n-The range of the Lethal Protection is 100 foundations (Can be adjusted in the future at the admin discretion).\n-You need a minimum of 10 structures in range in order to set it down.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             }			
