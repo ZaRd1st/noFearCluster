@@ -1,0 +1,15 @@
+cluster_id=noFear
+NoTributeDownloads=false
+MaxTributeCharacters=250
+MaxTributeDinos=250
+MaxTributeItems=250
+PreventDownloadDinos=false
+PreventDownloadItems=false
+PreventDownloadSurvivors=false
+PreventUploadDinos=false
+PreventUploadItems=false
+PreventUploadSurvivors=false
+TributeCharacterExpirationSeconds=0
+TributeDinoExpirationSeconds=86400
+TributeItemExpirationSeconds=86400 
+[ServerSettings]
