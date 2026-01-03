@@ -42,7 +42,7 @@
                     "title3": "Maps",
                     "text1": "Currently Installed Mods\n\\n- WBUI2 (Server Welcome UI)\n- Solo Farm Mod (Allow you to solo farm with argy/anky and more)\n\nMore will be eventually added but I will make it so its not game breaking.",
                     "text2": "Server API (v1.1) is now out!!\n\nCurrently installed plug-in :\n- Permission(Core)\n- Shop\n- ShopUI\n- LethalORP",
-                    "text3": "noFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheIsland\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-ScorchedEarthn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheCentern\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Aberrationn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Extinctionn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Astraeosn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Ragnarokn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Valgueron\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-LostColony",
+                    "text3": "noFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheIsland\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-ScorchedEarth\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheCenter\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Aberration\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Extinction\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Astraeos\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Ragnarok\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Valguero\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-LostColony",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -99,6 +99,7 @@
         ]
     }
 }
+
 
 
 
