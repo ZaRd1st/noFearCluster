@@ -40,9 +40,9 @@
                     "title1": "Mods + Settings",
                     "title2": "Plugins",
                     "title3": "Maps",
-                    "text1": "Currently Installed Mods\n\n- TG Stacking Mod(1000 -50% KG)\n- WBUI2 (Server Welcome UI)\n- Solo Farm Mod (Allow you to solo farm with argy/anky and more)\n- Super Spyglass / Super Binoculars (Dino Stats Checker)\n- Cryopods (Allow you to store dinos)\n- D+Dino (DinoImprint/Incubator)\n\nMore will be eventually added but I will make it so its not game breaking.\n\nMods specific settings tweaks\n\n[Cryopods]\nCryoSicknessTimer=60 (Was 300)\n\n[D+Dino]\nImproved Refrigerator=Removed\nImproved Smithy=Removed\nImproved Fabricator=Removed\nImproved Industrial Forge=Removed\nImproved Industrial Cooker=Removed\nImproved Chemistry Bench=Removed",
-                    "text2": "Server API (v1.1) is now out!!\n\nCurrently installed plug-in :\n- Permission(Core)\n- Shop\n- ShopUI\n- LethalORP\n- TurretFiller\n- ItemPlus\n- CrossChat.",
-                    "text3": "noFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-TheIsland\nsteam://connect/24.157.173.63:29015\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-ScorchedEarth\nsteam://connect/24.157.173.63:27017\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-Ragnarok\n(TBA)\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-Aberation\n(TBA)\n\nnnoFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-Extinction\n(TBA)\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-Genesis1\n(TBA)\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-8x-Genesis2\n(TBA)",
+                    "text1": "Currently Installed Mods\n\\n- WBUI2 (Server Welcome UI)\n- Solo Farm Mod (Allow you to solo farm with argy/anky and more)\n\nMore will be eventually added but I will make it so its not game breaking.",
+                    "text2": "Server API (v1.1) is now out!!\n\nCurrently installed plug-in :\n- Permission(Core)\n- Shop\n- ShopUI\n- LethalORP",
+                    "text3": "noFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheIsland\n\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-ScorchedEarthn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheCentern\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Aberrationn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Extinctionn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Astraeosn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Ragnarokn\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Valgueron\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-LostColony",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -99,6 +99,7 @@
         ]
     }
 }
+
 
 
 
