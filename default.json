@@ -40,8 +40,8 @@
                     "title1": "Mods + Settings",
                     "title2": "Plugins",
                     "title3": "Maps",
-                    "text1": "Currently Installed Mods\n\\n- WBUI2 (Server Welcome UI)\n- Solo Farm Mod (Allow you to solo farm with argy/anky and more)\n\nMore will be eventually added but I will make it so its not game breaking.",
-                    "text2": "Server API (v1.1) is now out!!\n\nCurrently installed plug-in :\n- Permission(Core)\n- Shop\n- ShopUI\n- LethalORP",
+                    "text1": "Currently Installed Mods\n\\n- WBUI2 (Server Welcome UI)\n- Solo Farm Mod (Allow you to solo farm with argy/anky and more)\n\nMore will be eventually added but I will make it so its not game breaking.\n\\n-PVP Structure Decay is active with the normal official rule, if you're offline for too long your base will autodecay destroyed and this not reversible",
+                    "text2": "Server API (v1.1) is now out!!\n\nCurrently installed plug-in :\n- Permission(Core)\n- Shop\n- ShopUI\n- LethalORP\n- CrossChatAscended\n- TurretFiller\n- AdvancedMessages\n- AutoDinoSettings\n- EngramUnlockers\n- PointsReward",
                     "text3": "noFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheIsland\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-ScorchedEarth\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-TheCenter\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Aberration\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Extinction\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Astraeos\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Ragnarok\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-Valguero\nnoFear-NoWipe-[Shop/Kits/ORP]-PvP-15x-LostColony",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
@@ -53,11 +53,11 @@
                     "title1": "Starter Kits",
                     "title2": "Shop List",
                     "title3": "Donator Roles",
-                    "title4": "Shop Blueprint List",
+                    "title4": "Shop Weapon/Armor/Bps/Dinos List",
                     "text1": "Every players that join the server is getting starter kits (3) of them each to be more exact.\n\n- Level 100 Pteranodon with a saddle quality of (1)\n\n- Metal tools (Hatchet,Pick,Pike,Sickle) with a quality of (1)\n\n- Taming kit (Crossbow,TranqArrow,Narcotics) quality (1)\n\n- Starter base (Stone Foundations,Walls,Ceillings,Door,Bed,Forges)\n\n- Flak armors (Helm,Chest,Legs,Gloves,Boots) quality (1)",
-                    "text2": "In the shop list [F2] you will see what you can buy with you accumulated points. Those with the default group will always be available to you, if you wanna see what group you are type /groups in chat to see it. Here is an exemple of gaining a temp/perm donator role will get you.\n\n- Donator/Supporter/VIP will give you the Boss summon kits\n-EliteVIP/InsaneVIP will give you the ability to unlock tek engrams and neutered dinosaurs\n-GodVIP will give you the ability to give you unneutered dinos\n\n- This is not final and still in construction also so keep it in mind",
+                    "text2": "In the shop list [F2] you will see what you can buy with you accumulated points. Those with the default group will always be available to you, if you wanna see what group you are type /groups in chat to see it. Here is an exemple of gaining a temp/perm donator role will get you.\n\n- Donator/Supporter/VIP will give you the Boss summon kits\n-EliteVIP/InsaneVIP will give you the ability to unlock tek engrams and neutered dinosaurs & weapon/armor\n-GodVIP will give you the ability to give you unneutered dinos and blueprint\n\n- This is not final and still in construction also so keep it in mind",
                     "text3": "In order to keep this cluster running there is a cost coming with it here how you can make the difference by donating to it.There is multiple donator milestones possible at different prices that can give you more point per 5 minutes here is what they are. \n\n- Standard = 5 points per five minutes\n- Donator = 10 points per five minutes\n- Supporter = 15 points per five minutes\n- VIP = 20 points per five minutes\n- EliteVIP = 35 points per five minutes\n- InsaneVIP = 50 points per five minutes\n- GodVIP = 75 points per five minutes\n\nThe price list will be available on discord and those ranks give you 720 in hours time and is the temporary role. The permanent roll can be achieved and is also commulative over time.",
-                    "text4": "Within the ArkShopUI, Will be reserved for futhur use of Donator Ranks.",
+                    "text4": "This section of shop is strictly reserved to people who support this cluster by donating to keep it running on a regular basis\n\n- EliteVIP / InsaneVIP will get neutered level 100 dinos available to them with quality 1 weapon/armor/bps\n- GodVIP will get unneutered level 135 dinos available to them with quality 2 weapon/armor/bps",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -99,6 +99,7 @@
         ]
     }
 }
+
 
 
 
