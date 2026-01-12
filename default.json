@@ -55,9 +55,9 @@
                     "title3": "Donator Roles",
                     "title4": "Shop Weapon/Armor/Bps/Dinos List",
                     "text1": "Every players that join the server is getting starter kits (3) of them each to be more exact.\n\n- Level 100 Pteranodon with a saddle quality of (1)\n\n- Metal tools (Hatchet,Pick,Pike,Sickle) with a quality of (1)\n\n- Taming kit (Crossbow,TranqArrow,Narcotics) quality (1)\n\n- Starter base (Stone Foundations,Walls,Ceillings,Door,Bed,Forges)\n\n- Flak armors (Helm,Chest,Legs,Gloves,Boots) quality (1)",
-                    "text2": "In the shop list [F2] you will see what you can buy with you accumulated points. Those with the default group will always be available to you, if you wanna see what group you are type /groups in chat to see it. Here is an exemple of gaining a temp/perm donator role will get you.\n\n- Donator/Supporter/VIP will give you the Boss summon kits\n\n-EliteVIP/InsaneVIP will give you the ability to unlock tek engrams and neutered dinosaurs & weapon/armor\n\n-GodVIP will give you the ability to give you unneutered dinos and blueprint\n\n- This is not final and still in construction also so keep it in mind",
+                    "text2": "In the shop list [F2] you will see what you can buy with your accumulated points. Those with the default group will always be available to you, if you wanna see what group you are type /groups in chat to see it. Here is an exemple of gaining a temp/perm donator role will get you.\n\n- Donator/Supporter/VIP will give you the Boss summon kits\n\n-EliteVIP/InsaneVIP will give you the ability to unlock tek engrams and neutered dinosaurs & weapon/armor\n\n-GodVIP will give you the ability to give you unneutered dinos and blueprint\n\n- This is not final and still in construction also so keep it in mind",
                     "text3": "In order to keep this cluster running there is a cost coming with it here how you can make the difference by donating to it.There is multiple donator milestones possible at different prices that can give you more point per 5 minutes here is what they are. \n\n- Standard = 5 points per five minutes\n- Donator = 10 points per five minutes\n- Supporter = 15 points per five minutes\n- VIP = 20 points per five minutes\n- EliteVIP = 35 points per five minutes\n- InsaneVIP = 50 points per five minutes\n- GodVIP = 75 points per five minutes\n\nThe price list will be available on discord and those ranks give you 720 in hours time and is the temporary role. The permanent roll can be achieved and is also commulative over time.",
-                    "text4": "This section of shop is strictly reserved to people who support this cluster by donating to keep it running on a regular basis\n\n- EliteVIP / InsaneVIP will get neutered level 100 dinos available to them with quality 1 weapon/armor/bps\n\n- GodVIP will get unneutered level 135 dinos available to them with quality 2 weapon/armor/bps",
+                    "text4": "This section of shop is strictly reserved to people who support this cluster by donating to keep it running on a regular basis\n\n- EliteVIP / InsaneVIP will get neutered level 150(tamed) dinos available to them with quality 1 weapon/armor/bps\n\n- GodVIP will get unneutered level 202(tamed) dinos available to them with quality 2 weapon/armor/bps",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -99,6 +99,7 @@
         ]
     }
 }
+
 
 
 
