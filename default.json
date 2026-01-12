@@ -10,7 +10,7 @@
             "IconTextColor": 6,
             "OpenOnStart": false,
             "OpenOnStartOnlyNewPlayers": false,
-            "UpdateInterval": 24
+            "UpdateInterval": 1
         },
         "tabs": [
             {
@@ -99,6 +99,7 @@
         ]
     }
 }
+
 
 
 
